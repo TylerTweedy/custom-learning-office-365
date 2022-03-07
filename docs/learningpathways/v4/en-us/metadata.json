@@ -165,12 +165,12 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "5a18d890-4ec8-4856-8ce9-cfb613f19379",
       "Name": "Maintenance",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Custom",
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
@@ -193,12 +193,12 @@
       ]
     },
     {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
+      "Id": "8cfa0993-01a7-4764-a438-f13455569639",
       "Name": "Production",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Custom",
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
@@ -420,12 +420,12 @@
       ]
     },
     {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
+      "Id": "c2f1f143-4761-4e47-a513-8e9902075fe3",
       "Name": "Service",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Custom",
       "SubCategories": [
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
