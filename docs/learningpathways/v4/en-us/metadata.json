@@ -257,12 +257,12 @@
       ]
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Id": "c346338b-3f53-4299-88fe-acd2b7946991",
       "Name": "Production",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Custom",
       "SubCategories": [
         {
           "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
