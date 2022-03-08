@@ -196,8 +196,8 @@
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
           "Name": "Modern workplace",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "Image": "",
+          "TechnologyId": "",
           "SubjectId": "null",
           "Source": "Microsoft",
           "SubCategories": []
@@ -205,7 +205,7 @@
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
           "Name": "Work remotely",
-          "Image": "images/categories/work_remotely.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "null",
           "Source": "Microsoft",
@@ -214,8 +214,8 @@
         {
           "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
           "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "Image": "",
+          "TechnologyId": "",
           "SubjectId": "null",
           "Source": "Microsoft",
           "SubCategories": []
@@ -233,8 +233,8 @@
         {
           "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
           "Name": "Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "Image": "",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
@@ -242,8 +242,8 @@
         {
           "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
           "Name": "OneDrive",
-          "Image": "images/categories/onedrive.png",
-          "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
+          "Image": "",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
@@ -251,8 +251,8 @@
         {
           "Id": "f9b14990-420a-4678-87a8-8428928186c6",
           "Name": "Word",
-          "Image": "images/categories/word.png",
-          "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+          "Image": "",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
@@ -279,7 +279,7 @@
         {
           "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
           "Name": "Admin Success Center",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
@@ -298,7 +298,7 @@
         {
           "Id": "fa8cb0e5-875c-4830-8bad-705f5062d5cb",
           "Name": "General",
-          "Image": "images/categories/toolkit.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
@@ -307,7 +307,7 @@
         {
           "Id": "ae27f22b-40f9-4dab-a461-2dec0e71c067",
           "Name": "Healthcare",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
@@ -326,7 +326,7 @@
         {
           "Id": "6a6f620a-7893-4e82-a87b-fe0564a51d51",
           "Name": "General",
-          "Image": "images/categories/toolkit.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
@@ -335,7 +335,7 @@
         {
           "Id": "01d2c189-83f8-4dcc-8ee1-9ff6fad87c58",
           "Name": "Healthcare",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
