@@ -166,26 +166,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "8cfa0993-01a7-4764-a438-f13455569639",
@@ -203,35 +184,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-          "Name": "OneDrive",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "f9b14990-420a-4678-87a8-8428928186c6",
-          "Name": "Word",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "c2f1f143-4761-4e47-a513-8e9902075fe3",
@@ -240,26 +193,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Tools",
-          "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
-          "Name": "Admin Success Center",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "fa555914-f5c0-4cdf-9a8a-87fb17f0ed73",
@@ -268,26 +202,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "fa8cb0e5-875c-4830-8bad-705f5062d5cb",
-          "Name": "General",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
-        {
-          "Id": "ae27f22b-40f9-4dab-a461-2dec0e71c067",
-          "Name": "Healthcare",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "2b29255a-80b8-4134-9f73-a0fa2988622f",
@@ -296,26 +211,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "6a6f620a-7893-4e82-a87b-fe0564a51d51",
-          "Name": "General",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
-        {
-          "Id": "01d2c189-83f8-4dcc-8ee1-9ff6fad87c58",
-          "Name": "Healthcare",
-          "Image": "",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     }
   ],
   "Audiences": [
@@ -329,23 +225,23 @@
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
-      "Name": "Maintenance"
+      "Name": "Distribution"
     },
     {
       "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-      "Name": "Production"
+      "Name": "Maintenance"
     },
     {
       "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
-      "Name": "Change Manager"
+      "Name": "Production"
     },
     {
       "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
-      "Name": "Admin"
+      "Name": "Quality Assurance"
     },
     {
       "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
-      "Name": "Group Owner"
+      "Name": "Service"
     },
     {
       "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
