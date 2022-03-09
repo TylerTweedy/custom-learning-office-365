@@ -161,7 +161,7 @@
   "Categories": [
     {
       "Id": "5a18d890-4ec8-4856-8ce9-cfb613f19379",
-      "Name": "Test",
+      "Name": "Onboarding",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -197,7 +197,7 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Modern workplace",
+          "Name": "All",
           "Image": "",
           "TechnologyId": "",
           "SubjectId": "null",
@@ -206,7 +206,7 @@
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
+          "Name": "Healthcare",
           "Image": "",
           "TechnologyId": "",
           "SubjectId": "null",
@@ -215,7 +215,7 @@
         },
         {
           "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
+          "Name": "Retail Medical",
           "Image": "",
           "TechnologyId": "",
           "SubjectId": "null",
