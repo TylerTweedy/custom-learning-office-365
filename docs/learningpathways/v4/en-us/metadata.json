@@ -154,8 +154,8 @@
         {
           "Id": "f1b531e0-2a62-4007-8858-08bd8be6ecae",
           "Name": "Microsoft 365"
-        } 
-       ]
+        }
+      ]
     }
   ],
   "Categories": [
@@ -401,7 +401,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "Custom"
   ],
   "Levels": [
     {
