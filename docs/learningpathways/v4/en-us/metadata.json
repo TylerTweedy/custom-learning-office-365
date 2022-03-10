@@ -2,7 +2,7 @@
   "Technologies": [
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-      "Name": "eTech",
+      "Name": "eTec",
       "Subjects": []
     },
     {
@@ -13,7 +13,28 @@
     {
       "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
       "Name": "LinenMaster",
-      "Subjects": []
+      "Subjects": [
+        {
+          "Id": "cd1e8efb-61cf-42cd-b409-4b762e5453db",
+          "Name": "Garment Manager"
+        },
+        {
+          "Id": "1572babd-258b-485f-930f-625a4f05c1ed",
+          "Name": "Information Manager"
+        },
+        {
+          "Id": "1ee31562-4ca0-4c84-8004-eb700866ff29",
+          "Name": "Office Manager"
+        },
+        {
+          "Id": "1ee31562-4ca0-4c84-8004-eb700866ff29",
+          "Name": "LinenHelper"
+        },
+        {
+          "Id": "1ee31562-4ca0-4c84-8004-eb700866ff29",
+          "Name": "LinenMasterNet"
+        }
+      ]
     },
     {
       "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
@@ -32,7 +53,7 @@
     },
     {
       "Id": "3edeb182-3828-4a83-aef9-928a2693e288",
-      "Name": "Outlook for iOS and Android",
+      "Name": "WhipAround",
       "Subjects": []
     },
     {
