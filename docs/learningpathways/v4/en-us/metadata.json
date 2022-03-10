@@ -218,12 +218,22 @@
     },
     {
       "Id": "94a3e916-f941-49c6-b540-a375ff2eaff3",
-      "Name": "Service - Data Analysts",
+      "Name": "Service-Data Analysts",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "577a05b4-8a18-402d-b4ca-a08b7834df85",
+          "Name": "General",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "fa555914-f5c0-4cdf-9a8a-87fb17f0ed73",
