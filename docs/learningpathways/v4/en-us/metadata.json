@@ -217,6 +217,15 @@
       "SubCategories": []
     },
     {
+      "Id": "d552e87b-9d1a-4860-bbba-a64d0606463a",
+      "Name": "Data Analysts",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
       "Id": "3b7d95cd-315c-49dd-8fe8-faac52750500",
       "Name": "Service-Data Analysts",
       "Image": "",
