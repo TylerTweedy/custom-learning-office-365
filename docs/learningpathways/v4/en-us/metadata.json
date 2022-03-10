@@ -232,6 +232,24 @@
           "SubjectId": "",
           "Source": "Custom",
           "SubCategories": []
+        },
+        {
+          "Id": "17f038dc-63a7-4baf-b0a2-09b50eef44b1",
+          "Name": "Healthcare",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "d53a0107-4580-42ce-aca9-37377cff871c",
+          "Name": "Retail Medical",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
         }
       ]
     },
