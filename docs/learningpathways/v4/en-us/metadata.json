@@ -223,8 +223,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": []
-    },
+      "SubCategories": [
         {
           "Id": "577a05b4-8a18-402d-b4ca-a08b7834df85",
           "Name": "General",
